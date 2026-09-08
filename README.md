@@ -22,9 +22,9 @@ I'm a Software Engineering (Hons) student at Wawasan Open University (WOU DiGiT)
 
 🏥 **[CareHub](https://github.com/kwebbelkop62-glitch/carehub)** — full-stack appointment tracker for Penang patients & caregivers. Next.js 16 + Supabase/Postgres with row-level security, Clerk auth, scheduled Edge Function reminders via Resend. [Live demo](https://carehub-theta.vercel.app)
 
-**GitHub stats**
+**GitHub streak**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kwebbelkop62-glitch&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kwebbelkop62-glitch)
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=kwebbelkop62-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231391821%3Fu%3D3e61ce06c04dd523c237ed8b1bc6e71770d46cd1%26v%3D4" alt="Let's connect" />
