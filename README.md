@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Tirlesh%20Nadisan&fontSize=40)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=kwebbelkop62-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231391821%3Fu%3D3e61ce06c04dd523c237ed8b1bc6e71770d46cd1%26v%3D4" alt="Tirlesh Nadisan" />
+</p>
 
 ### Hi, I'm Tirlesh 👋
 
@@ -23,3 +25,7 @@ I'm a Software Engineering (Hons) student at Wawasan Open University (WOU DiGiT)
 **GitHub stats**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kwebbelkop62-glitch&show_icons=true)
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=kwebbelkop62-glitch&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231391821%3Fu%3D3e61ce06c04dd523c237ed8b1bc6e71770d46cd1%26v%3D4" alt="Let's connect" />
+</p>
