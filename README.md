@@ -16,14 +16,7 @@ I'm a Software Engineering student at Wawasan Open University in Penang, focused
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 <img src="assets/carehub-preview.jpg" width="100%" alt="CareHub landing page" />
-
-</td>
-<td width="40%" valign="top">
 
 **CareHub**
 
@@ -33,15 +26,9 @@ A full-stack patient and caregiver appointment platform designed around role-bas
 
 [Live Demo](https://carehub-theta.vercel.app) · [Repository](https://github.com/kwebbelkop62-glitch/carehub)
 
-</td>
-</tr>
-<tr>
-<td width="60%" valign="top">
+<br/>
 
 <img src="assets/svg/sentinel-diagram.svg" width="100%" alt="SENTINEL system diagram: evidence intake, cross-source analysis, human approval" />
-
-</td>
-<td width="40%" valign="top">
 
 **SENTINEL**
 
@@ -50,10 +37,6 @@ An evidence-grounded AI system proposal for multi-agency emergency coordination 
 `System Design` `AI Architecture` `Research Proposal`
 
 <sub>Private repo — proposal and pitch deck available on request.</sub>
-
-</td>
-</tr>
-</table>
 
 ## Technical Toolkit
 
